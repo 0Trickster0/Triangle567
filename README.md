@@ -1,1 +1,1 @@
-# Triangle567
+[![build status of master](https://app.travis-ci.com/0Trickster0/Triangle567.svg?branch=master)](https://app.travis-ci.com/0Trickster0/Triangle567)
